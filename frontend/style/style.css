@@ -1,0 +1,18 @@
+body {
+    background-color: darkgrey;
+    /* background-image: url(/frontend/images/Banner.png); */
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace  ;
+    font-size: 40px;
+    
+}
+
+.p1 {
+    text-align: center;
+    text-decoration: underline;
+    color: aqua;
+}
+
+
