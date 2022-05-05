@@ -1,6 +1,2 @@
-let a;
-a = 3;
-console.log(a)
-
-a = 5
-console.log(a)
+const x = document.getElementsByClassName("content");
+x.style.textDecoration = "none";

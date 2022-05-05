@@ -1,18 +1,27 @@
-body {
-    background-color: darkgrey;
-    /* background-image: url(/frontend/images/Banner.png); */
+nav{
+    background-color: #659266;
+    align-items: center;
 }
 
-h1 {
-    font-family: 'Courier New', Courier, monospace  ;
-    font-size: 40px;
-    
+.nav-links {
+    display: inline-block;
+    display: flex;
 }
 
-.p1 {
-    text-align: center;
-    text-decoration: underline;
-    color: aqua;
+.nav-links ul li{
+    list-style: none;
+    display: inline-block;
 }
+
+.nav-links ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+p {
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 
 
